@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T08:58:59.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iEc-Eg7OcTL_zG1-m6a6" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T08:59:33.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SYiFfKYdLHzUzgQhpSJh" version="21.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="735" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -432,6 +432,19 @@
         </mxCell>
         <mxCell id="bkrLHlF0TbQYKaF2tgUl-1" value="邮箱存在" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkrLHlF0TbQYKaF2tgUl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bkrLHlF0TbQYKaF2tgUl-7" target="bkrLHlF0TbQYKaF2tgUl-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="740" />
+              <mxPoint x="120" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bkrLHlF0TbQYKaF2tgUl-10" value="Err：触发安全警告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bkrLHlF0TbQYKaF2tgUl-9">
+          <mxGeometry x="0.4211" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bkrLHlF0TbQYKaF2tgUl-7" value="调用：&lt;br&gt;邮件验证码业务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />

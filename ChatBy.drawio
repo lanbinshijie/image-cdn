@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T09:04:45.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZDfu_MNxLYDATVWEtN1D" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T09:06:39.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aUS6m9yw_3z0xic9kVgm" version="21.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="817" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -146,13 +146,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bkrLHlF0TbQYKaF2tgUl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-28" target="C3q8CRkT7xHkd-HnfYeI-37">
+        <mxCell id="bkrLHlF0TbQYKaF2tgUl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-28" target="C3q8CRkT7xHkd-HnfYeI-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="500" />
               <mxPoint x="770" y="890" />
-              <mxPoint x="40" y="890" />
-              <mxPoint x="40" y="940" />
+              <mxPoint x="90" y="890" />
+              <mxPoint x="90" y="925" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -166,19 +166,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-37" value="创建Token" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="74.94" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-43" target="C3q8CRkT7xHkd-HnfYeI-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-43" value="如果有相同设备下的Token就更新，如果没有相同设备下Token或Token不合法就创建" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="69.94" y="1000" width="130" height="110" as="geometry" />
+          <mxGeometry x="130" y="1000" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-45" value="合法Token：没有过期的Token，状态正常的Token" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="234.94" y="1000" width="140" height="110" as="geometry" />
+          <mxGeometry x="295" y="1000" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bkrLHlF0TbQYKaF2tgUl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-47" target="bkrLHlF0TbQYKaF2tgUl-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-47" value="返回用户信息和Token" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="234.94" y="910" width="140" height="60" as="geometry" />
+          <mxGeometry x="295" y="910" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-49" value="邮件验证码业务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1280" width="160" height="40" as="geometry" />
@@ -484,8 +487,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="870" />
-              <mxPoint x="20" y="870" />
-              <mxPoint x="20" y="940" />
+              <mxPoint x="80" y="870" />
+              <mxPoint x="80" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -496,6 +499,9 @@
         </mxCell>
         <mxCell id="bkrLHlF0TbQYKaF2tgUl-21" value="收到验证码&lt;br&gt;调用：收到验证码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkrLHlF0TbQYKaF2tgUl-25" value="成功" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="900" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T09:06:39.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aUS6m9yw_3z0xic9kVgm" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T09:06:51.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NknUh3_nWGmAdQF0yHBM" version="21.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="919" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
           <mxGeometry x="295" y="910" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-49" value="邮件验证码业务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="1280" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="1169" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-50" target="C3q8CRkT7xHkd-HnfYeI-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-50" value="方法：发送验证码&lt;br&gt;获取验证码&lt;br&gt;对应的邮箱地址" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1249" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-51" target="C3q8CRkT7xHkd-HnfYeI-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -239,10 +239,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-51" value="生成验证码" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="1350" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="1239" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-53" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="1470" width="60" height="80" as="geometry" />
+          <mxGeometry x="310" y="1359" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-56" target="C3q8CRkT7xHkd-HnfYeI-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -250,13 +250,13 @@
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-56" target="C3q8CRkT7xHkd-HnfYeI-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="1480" />
-              <mxPoint x="190" y="1390" />
+              <mxPoint x="190" y="1369" />
+              <mxPoint x="190" y="1279" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-56" value="同一个邮箱一分钟内只能发送一封邮件" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1339" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-57" target="C3q8CRkT7xHkd-HnfYeI-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -264,13 +264,13 @@
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-57" target="C3q8CRkT7xHkd-HnfYeI-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="1570" />
-              <mxPoint x="200" y="1390" />
+              <mxPoint x="200" y="1459" />
+              <mxPoint x="200" y="1279" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-57" value="同一个设备一分钟内只能发送两封邮件" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1429" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-59" target="C3q8CRkT7xHkd-HnfYeI-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -278,19 +278,19 @@
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-59" target="C3q8CRkT7xHkd-HnfYeI-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="1670" />
-              <mxPoint x="210" y="1390" />
+              <mxPoint x="210" y="1559" />
+              <mxPoint x="210" y="1279" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-59" value="同一个IP五分钟内只能发送10封邮件" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1529" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-62" target="C3q8CRkT7xHkd-HnfYeI-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="1770" />
-              <mxPoint x="220" y="1390" />
+              <mxPoint x="220" y="1659" />
+              <mxPoint x="220" y="1279" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -317,28 +317,28 @@
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-62" target="C3q8CRkT7xHkd-HnfYeI-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="1820" />
-              <mxPoint x="270" y="1820" />
-              <mxPoint x="270" y="1390" />
+              <mxPoint x="120" y="1709" />
+              <mxPoint x="270" y="1709" />
+              <mxPoint x="270" y="1279" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-62" value="每个账号每天最多发送20封邮件（最优先）" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-82" value="SMTP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="1470" width="60" height="80" as="geometry" />
+          <mxGeometry x="390" y="1359" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-85" target="C3q8CRkT7xHkd-HnfYeI-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-85" value="方法：收到验证码" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1649" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-86" target="C3q8CRkT7xHkd-HnfYeI-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="1760" />
+              <mxPoint x="340" y="1649" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -351,13 +351,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-86" value="验证合法性：是否过期，是否正确，是否已经使用……" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1649" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C3q8CRkT7xHkd-HnfYeI-88" target="C3q8CRkT7xHkd-HnfYeI-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3q8CRkT7xHkd-HnfYeI-88" value="设置验证码状态" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="1580" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="1469" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jlphcnFxieWt0SQOBcKB-19" value="实名认证业务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1900" width="140" height="40" as="geometry" />
